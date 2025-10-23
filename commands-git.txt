@@ -3,3 +3,5 @@ git add <nom du fichier>
 git commit -m "<description>"
 git push https://github.com/<nom d'utilisateur>/<nom du repo>
 git pull origin main
+git branch <nom de la branche>
+git switch <nom de la branche>
