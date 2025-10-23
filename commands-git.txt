@@ -1,0 +1,4 @@
+git clone https://github.com/<nom d'utilisateur>/<nom du repo>
+git add <nom du fichier>
+git commit -m "<description>"
+git push https://github.com/<nom d'utilisateur>/<nom du repo>
